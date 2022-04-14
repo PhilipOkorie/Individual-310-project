@@ -73,8 +73,7 @@ Ability to ask the user questions, and respond positively or negatively based on
    I was able to add a twitter API that enables the chatbot to retrieve latest tweets by any famous person. In my presentation I used BigSean who is a famous rapper.  So Harvie now can pull  the  latest  tweets  from  a  famous  person,  parse the tweets and know how many likes and when the tweet was put up. Harvie can analyze the tweets.
    Spotify feauture enables you to put random songs onto your playlist and interact with songs that have been added to the bot. He can use those songs when songs are being spoken about.
    
-  ![image](screenshots/Screenshot_4.png)
-
+   
 ## Looking ahead
 We would love to include the following features to our bot:
 - More abilities other than just answering questions such as:
