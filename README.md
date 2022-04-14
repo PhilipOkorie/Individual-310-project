@@ -53,7 +53,7 @@ Once done all the user has to type is `exit` for chatbot to terminate.
 
 ![image](https://user-images.githubusercontent.com/45835101/159102958-bdc379f5-b278-4882-baa5-808fb2f690fc.png)
 
-## A3 Features
+## Extra Implementation Features
 Handling lack of question mark for questions
 
 Provides more topics like sports and movies
@@ -68,7 +68,6 @@ More error handling to guide user input
 
 Ability to ask the user questions, and respond positively or negatively based on simple key words.
 
-## Extra implementations
    I added twitter and spotify API's.
    I was able to add a twitter API that enables the chatbot to retrieve latest tweets by any famous person. In my presentation I used BigSean who is a famous rapper.  So Harvie now can pull  the  latest  tweets  from  a  famous  person,  parse the tweets and know how many likes and when the tweet was put up. Harvie can analyze the tweets.
    Spotify feauture enables you to put random songs onto your playlist and interact with songs that have been added to the bot. He can use those songs when songs are being spoken about.
